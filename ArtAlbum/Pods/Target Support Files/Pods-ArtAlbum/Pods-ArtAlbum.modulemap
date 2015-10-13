@@ -1,0 +1,6 @@
+framework module Pods_ArtAlbum {
+  umbrella header "Pods-ArtAlbum-umbrella.h"
+
+  export *
+  module * { export * }
+}
