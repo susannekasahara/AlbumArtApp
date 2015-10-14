@@ -28,7 +28,7 @@
 		821A6B0F1BCD447800B3A2AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		821A6B121BCD447800B3A2AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		821A6B141BCD447800B3A2AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		821A6B1A1BCD44DA00B3A2AA /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = "<group>"; };
+		821A6B1A1BCD44DA00B3A2AA /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		821A6B1C1BCD519800B3A2AA /* AlbumDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumDetailViewController.swift; sourceTree = "<group>"; };
 		821A6B1E1BCD51E800B3A2AA /* AlbumCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumCell.swift; sourceTree = "<group>"; };
 		821A6B201BCD520700B3A2AA /* TrackCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackCell.swift; sourceTree = "<group>"; };
